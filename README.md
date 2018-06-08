@@ -8,9 +8,10 @@
 
 以下所有面试题目是从[一位github用户](https://github.com/AweiLoveAndroid/CommonDevKnowledge)整理出来汇总的，我把面试题目和参考答案（部分自己整理）
 
-整理在一起，直接通过阅读和理解相关的内容，能够“临时抱佛脚”。
+整理在一起，直接通过阅读和理解相关的内容，能够临时恶补一下。
 
 ### 主要分为以下几部分：
+
 > ### （一）[java面试题](https://github.com/buhuiming/Java-Android-interview/blob/master/java%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 > ### （二）[Android面试题](https://github.com/buhuiming/Java-Android-interview/blob/master/Android%E9%9D%A2%E8%AF%95%E9%A2%98.md)
