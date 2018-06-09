@@ -5,6 +5,7 @@
 ### 一、java基础面试知识点
 
 * java中==和equals和hashCode的区别
+>==是运算符，用于比较两个变量是否相等。equals，是Objec类的方法，用于比较两个对象是否相等，默认Object类的equals方法是比较两个对象的地址
 * int、char、long各占多少字节数
 * int与integer的区别
 * 探探对java多态的理解
