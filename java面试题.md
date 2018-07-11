@@ -7,9 +7,22 @@
 * java中==和equals和hashCode的区别
 >==是运算符，用于比较两个变量是否相等。equals，是Objec类的方法，用于比较两个对象是否相等，默认Object类的equals方法是比较两个对象的地址
 * int、char、long各占多少字节数
+>1字节： byte , boolean</br>
+>2字节： short , char</br>
+>4字节： int , float</br>
+>8字节： long , double</br>
+>注：1字节(byte)=8位(bits)
 * int与integer的区别
-* 探探对java多态的理解
+>1、Integer是int提供的封装类，而int是Java的基本数据类型；</br>
+>2、Integer默认值是null，而int默认值是0；</br>
+>3、声明为Integer的变量需要实例化，而声明为int的变量不需要实例化；</br>
+>4、Integer是对象，用一个引用指向这个对象，而int是基本类型，直接存储数值。</br>
+* 谈谈对java多态的理解
+>要有继承,要有重写,父类引用指向子类对象
 * String、StringBuffer、StringBuilder区别
+>String：适用于少量的字符串操作的情况</br>
+>StringBuilder：适用于单线程下在字符缓冲区进行大量操作的情况</br>
+>StringBuffer：适用多线程下在字符缓冲区进行大量操作的情况
 * 什么是内部类？内部类的作用
 * 抽象类和接口区别
 * 抽象类的意义
